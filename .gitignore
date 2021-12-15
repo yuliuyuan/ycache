@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+output/
+script/settings.py
+info.log
+info.go
