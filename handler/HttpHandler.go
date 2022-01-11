@@ -38,7 +38,7 @@ func Get(c *gin.Context) {
 		return
 	}
 	c.JSON(200, gin.H{
-		"message": string(value),
+		"value": string(value),
 	})
 }
 
